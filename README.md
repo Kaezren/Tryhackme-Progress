@@ -1,2 +1,5 @@
 # Tryhackme-Progress
-My pcyber security learning progress on try hack me
+#Overview
+-Cyber Security Basics
+Learned about Careers in Cyber Security, Security principles, governance and regulation and cyber kill chain.
+-
