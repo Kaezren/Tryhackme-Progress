@@ -1,5 +1,10 @@
 # Tryhackme-Progress
-#Overview
--Cyber Security Basics
-Learned about Careers in Cyber Security, Security principles, governance and regulation and cyber kill chain.
--
+## Cyber Security Basics
+**Learned**:
+ - Careers in Cyber Security
+ - Security principles
+ - Governance and Regulation
+ - Cyber kill chain
+
+ 
+
